@@ -1,2 +1,5 @@
 # Solar-Tracker
-A solar panel controled by an arduino, programmed to always follow the light in order for the sunrays to fall perpendicularly on the solar panel resulting in its best possible efficiency. You also have the capability of viewing the angle deleted by the solar panel and and therefore find the sun's path in the area where the solar tracker was used.
+
+ΓΕΛ-ΕΠΑΛ ΚΙΣΑΜΟΥ ILIATORES
+
+Ο βασικός σκοπός του Solar-Tracker είναι το ηλιακό πάνελ να περιστρέφεται αυτόματα προς την κατεύθυνση όπου υπάρχει περισσότερος φως και να προσαρμόζει τη γωνία του, ώστε οι ακτίνες του ήλιου να πέφτουν πάνω του κάθετα. Επίσης χάρη στο analogfeedback servo γίνεται συλλογή των δεδομένων απο τις γωνίες που διαγράφει το πάνελ, επιτρέποντας έτσι την καταγραφή της πορείας του ήλιου στην περιοχή όπου χρησιμοποιήθηκε το Solar-Tracker.

@@ -29,3 +29,5 @@
 2)https://en.wikipedia.org/wiki/Position_of_the_Sun 
 3)https://www.youtube.com/watch?v=lJVEubm9Ja8 
 4)https://www.instructables.com/id/Arduino-Solar-Tracker/
+
+LINK ΠΟΥ ΒΟΗΘΗΣΕ ΣΤΗΝ ΒΑΘΜΟΝΟΜΗΣΗ-CALIBRATION SERVO : https://dronebotworkshop.com/analog-feedback-servo-motor/
